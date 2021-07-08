@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_4175" fill="#fff" stroke="#707070" d="M0 0H56V56H0z" data-name="Rectangle 4175" transform="translate(160 105)"/>
+        </clipPath>
+        <style>
+            .prefix__cls-4{fill:#969696}
+        </style>
+    </defs>
+    <g id="prefix__Mask_Group_99" clip-path="url(#prefix__clip-path)" data-name="Mask Group 99" transform="translate(-160 -105)">
+        <g id="prefix__ok_1_" data-name="ok (1)" transform="translate(151.777 96.78)">
+            <path id="prefix__Path_59818" fill="#00e8b8" d="M33.68 50.823a1.7 1.7 0 0 1-1.132-.436L20.965 39.965a1.7 1.7 0 0 1-.1-2.421l4.325-4.631a1.7 1.7 0 0 1 2.358-.121l5.108 4.456 11.427-12.8a1.757 1.757 0 0 1 1.293-.566 1.7 1.7 0 0 1 1.275.6l4.043 4.818a1.7 1.7 0 0 1 0 2.183L34.976 50.216a1.7 1.7 0 0 1-1.183.6.91.91 0 0 1-.113.007zM24.523 38.6l8.977 8.087L47.177 30.4l-1.87-2.222L34.07 40.762a1.7 1.7 0 0 1-2.384.148l-5.136-4.48z" data-name="Path 59818"/>
+            <path id="prefix__Path_59819" d="M36.221 64.22a28 28 0 0 1-22.995-43.976 1.7 1.7 0 1 1 2.787 1.941 24.6 24.6 0 1 0 6.881-6.647 1.7 1.7 0 1 1-1.84-2.855A28 28 0 1 1 36.221 64.22z" class="prefix__cls-4" data-name="Path 59819"/>
+            <path id="prefix__Path_59820" d="M18.357 18.615a1.7 1.7 0 0 1-1.157-2.943l.314-.285a1.7 1.7 0 1 1 2.27 2.525l-.275.251a1.7 1.7 0 0 1-1.152.452z" class="prefix__cls-4" data-name="Path 59820"/>
+        </g>
+    </g>
+</svg>

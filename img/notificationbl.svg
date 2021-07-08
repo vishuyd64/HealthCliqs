@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_3987" d="M0 0H20V20H0z" class="prefix__cls-1" data-name="Rectangle 3987" transform="translate(340 46)"/>
+        </clipPath>
+        <style>
+            .prefix__cls-1{fill:#12b2fc}
+        </style>
+    </defs>
+    <g id="prefix__Group_61856" data-name="Group 61856" transform="translate(-340 -44)">
+        <g id="prefix__Mask_Group_17" clip-path="url(#prefix__clip-path)" data-name="Mask Group 17" transform="translate(0 -2)">
+            <g id="prefix__notification" transform="translate(340 46)">
+                <g id="prefix__bell">
+                    <path id="prefix__Path_59492" d="M19.29 14.327l-1.725-1.735V8.318a6.575 6.575 0 0 0-5.578-6.594 6.46 6.46 0 0 0-7.3 6.393v4.476l-1.728 1.734A1.572 1.572 0 0 0 4.071 17h3.22v.326a3.68 3.68 0 0 0 3.834 3.508 3.68 3.68 0 0 0 3.834-3.508V17h3.22a1.572 1.572 0 0 0 1.112-2.674zm-6.249 3a1.8 1.8 0 0 1-1.917 1.591 1.8 1.8 0 0 1-1.917-1.591V17h3.834zM4.9 15.084l1.131-1.131a1.917 1.917 0 0 0 .569-1.361V8.117A4.533 4.533 0 0 1 8.154 4.7a4.476 4.476 0 0 1 3.584-1.121 4.658 4.658 0 0 1 3.91 4.7v4.313a1.917 1.917 0 0 0 .556 1.361l1.141 1.131z" class="prefix__cls-1" data-name="Path 59492" transform="translate(-1.125 -1.251)"/>
+                </g>
+            </g>
+        </g>
+        <g id="prefix__Ellipse_29" fill="#e22424" stroke="#2bccf9" data-name="Ellipse 29" transform="translate(351 44)">
+            <circle cx="3.5" cy="3.5" r="3.5" stroke="none"/>
+            <circle cx="3.5" cy="3.5" r="3" fill="none"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_3996" d="M0 0H18V18H0z" data-name="Rectangle 3996"/>
+        </clipPath>
+    </defs>
+    <g id="prefix__Mask_Group_25" clip-path="url(#prefix__clip-path)" data-name="Mask Group 25">
+        <g id="prefix__call-center">
+            <path id="prefix__Path_59497" d="M17.944 11.167a.472.472 0 0 1-.5-.5v-1a5.975 5.975 0 0 0-6-6 6.018 6.018 0 0 0-6 6v1a.472.472 0 0 1-.5.5.472.472 0 0 1-.5-.5v-1a7 7 0 1 1 14 0v1a.472.472 0 0 1-.5.5zm-5.75 7h-1.5a1.25 1.25 0 0 0 0 2.5h1.5a1.25 1.25 0 0 0 0-2.5zm0 1.5h-1.5a.25.25 0 0 1 0-.5h1.5a.25.25 0 0 1 0 .5z" data-name="Path 59497" transform="translate(-2.444 -2.667)"/>
+            <path id="prefix__Path_59498" d="M13.943 18.776h-1.5a.5.5 0 0 1 0-1h1.5a3.009 3.009 0 0 0 3-3 .5.5 0 0 1 1 0 4.012 4.012 0 0 1-4 4zm-3-3a2.984 2.984 0 0 1-2.4-1.2.5.5 0 1 1 .8-.6 2 2 0 0 0 3.2 0 .5.5 0 1 1 .8.6 2.984 2.984 0 0 1-2.4 1.2z" data-name="Path 59498" transform="translate(-1.943 -1.276)"/>
+            <path id="prefix__Path_59499" d="M6.167 9.333h-1.5a2.006 2.006 0 0 0-2 2v2.5a2.006 2.006 0 0 0 2 2h1.5a.538.538 0 0 0 .5-.5v-5.5a.538.538 0 0 0-.5-.5zm-.5 5.5h-1a1 1 0 0 1-1-1v-2.5a1 1 0 0 1 1-1h1zm13-5.5h-1.5a.538.538 0 0 0-.5.5v5.5a.538.538 0 0 0 .5.5h1.5a2.006 2.006 0 0 0 2-2v-2.5a2.006 2.006 0 0 0-2-2zm1 4.5a1 1 0 0 1-1 1h-1v-4.5h1a1 1 0 0 1 1 1z" data-name="Path 59499" transform="translate(-2.667 -1.833)"/>
+        </g>
+    </g>
+</svg>

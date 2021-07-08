@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_2074" fill="none" stroke="#fff" d="M0 0H16V16H0z" data-name="Rectangle 2074"/>
+        </clipPath>
+    </defs>
+    <g id="prefix__Mask_Group_24" clip-path="url(#prefix__clip-path)" data-name="Mask Group 24">
+        <g id="prefix__Page-1" transform="translate(.784 .784)">
+            <g id="prefix__Artboard">
+                <g id="prefix__search" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.568px">
+                    <circle id="prefix__Oval" cx="5.878" cy="5.878" r="5.878"/>
+                    <path id="prefix__Shape" fill-rule="evenodd" d="M14.108 14.108l-4.076-4.076"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

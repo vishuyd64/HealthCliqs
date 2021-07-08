@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_11050" d="M0 0H18V18H0z" class="prefix__cls-1" data-name="Rectangle 11050" transform="translate(324 411)"/>
+        </clipPath>
+        <style>
+            .prefix__cls-1{fill:#969696}
+        </style>
+    </defs>
+    <g id="prefix__Mask_Group_98" clip-path="url(#prefix__clip-path)" data-name="Mask Group 98" transform="translate(-324 -411)">
+        <g id="prefix__eye" transform="translate(324 414.893)">
+            <path id="prefix__Path_59815" d="M19.644 9.924l-1.67-1.67a10.09 10.09 0 0 0-14.255 0l-1.67 1.67a.692.692 0 0 0 0 .979l1.67 1.67a10.091 10.091 0 0 0 14.255 0l1.67-1.67a.692.692 0 0 0 0-.979zm-2.649 1.67a8.705 8.705 0 0 1-12.3 0l-1.18-1.18L4.7 9.233a8.705 8.705 0 0 1 12.3 0l1.18 1.18z" class="prefix__cls-1" data-name="Path 59815" transform="translate(-1.846 -5.306)"/>
+            <path id="prefix__Path_59816" d="M10.231 6.769a3.462 3.462 0 1 0 3.462 3.462 3.462 3.462 0 0 0-3.462-3.462zm0 5.539a2.077 2.077 0 1 1 2.077-2.077 2.077 2.077 0 0 1-2.077 2.077z" class="prefix__cls-1" data-name="Path 59816" transform="translate(-1.231 -5.124)"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_4172" fill="#fff" stroke="#707070" d="M0 0H32V32H0z" data-name="Rectangle 4172"/>
+        </clipPath>
+        <style>
+            .prefix__cls-5{fill:none;stroke:#373449;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.98px}
+        </style>
+    </defs>
+    <g id="prefix__Mask_Group_98" clip-path="url(#prefix__clip-path)" data-name="Mask Group 98">
+        <g id="prefix__mail_1_" data-name="mail (1)" transform="translate(1.326 6.101)">
+            <g id="prefix__Group_61966" fill="#12b2fc" data-name="Group 61966" transform="translate(2.956 2.97)">
+                <path id="prefix__Rectangle_4173" d="M0 0H27.718V17.819H0z" data-name="Rectangle 4173"/>
+                <path id="prefix__Path_59816" fill-rule="evenodd" d="M2.97 2064.719l13.859 6.858 13.859-6.858" data-name="Path 59816" transform="translate(-2.97 -2060.74)"/>
+            </g>
+            <g id="prefix__Group_61967" data-name="Group 61967">
+                <path id="prefix__Rectangle_4174" d="M0 0H27.718V17.819H0z" class="prefix__cls-5" data-name="Rectangle 4174"/>
+                <path id="prefix__Path_59817" d="M2.97 2064.719l13.859 6.858 13.859-6.858" class="prefix__cls-5" data-name="Path 59817" transform="translate(-2.97 -2060.74)"/>
+            </g>
+        </g>
+    </g>
+</svg>

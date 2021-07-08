@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_4171" fill="#f9f9f9" stroke="#707070" d="M0 0H32V32H0z" data-name="Rectangle 4171"/>
+        </clipPath>
+    </defs>
+    <g id="prefix__Mask_Group_97" clip-path="url(#prefix__clip-path)" data-name="Mask Group 97">
+        <g id="prefix__chat">
+            <path id="prefix__Path_59814" fill="#f9f9f9" d="M18.4 2.4a16 16 0 0 1 12.389 26.126l3.142 3.142A1.6 1.6 0 0 1 32.8 34.4H18.4a16 16 0 1 1 0-32zM24.8 20a1.6 1.6 0 1 0-1.6-1.6 1.6 1.6 0 0 0 1.6 1.6zm-6.4 0a1.6 1.6 0 1 0-1.6-1.6 1.6 1.6 0 0 0 1.6 1.6zM12 20a1.6 1.6 0 1 0-1.6-1.6A1.6 1.6 0 0 0 12 20z" data-name="Path 59814" transform="translate(-2.4 -2.4)"/>
+        </g>
+    </g>
+</svg>
